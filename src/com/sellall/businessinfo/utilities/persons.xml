@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Mike's Pizza</name>
+  <vicinity>West Chester Pike, West Chester</vicinity>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>39.9658560</lat>
+    <lng>-75.5271650</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CnRkAAAA0gBjiY9lQXBAgvRPmEfeP3J7FXg96rUD1MHFMo24z2MV-LgsI9vQgOZWxRZg8NElFI2hk-PlL40Z1l_G3MFIxlPXwFKW_x3usbCdCXkXmCEcuK2EXTY0h2rx9JN4m78Qw0EpOA7kSL7qrgLKq745LRIQANEeWZ1QeYuONTdd7sNVXxoUbcv4cAckBhrJarpRWxmCbsT6u6w</reference>
+  <id>0032ee34b04ea64500593472cc57b6fcbb2830d6</id>
+ </result>
+ <result>
+  <name>Jumbo Pizza</name>
+  <vicinity>Waterview Rd # C, West Chester</vicinity>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>39.9667840</lat>
+    <lng>-75.5407950</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CnRjAAAAEsPLwSjQcPLhqYu8UE4Edm4mw9fRgo5e732U4uTEnSsaLO8rg9koaCS4YIydT5Ag4gKTFpCpZ6jnBZUOWYvwsCGiEpEESbzOdhkqNI1AhwYep8o8bwbv1foUwuxs_kZW2DrsC2TKUh8rmvpuuM29iRIQj3poTmZ2Uproic3eygPtlxoUHEyfQpLWuEypueo1m09HcnFn76U</reference>
+  <id>e547e4622539239b775a6f673a286af13769e175</id>
+ </result>
+ <result>
+  <name>Tommy's Original Pizza</name>
+  <vicinity>West Chester Pike, West Chester</vicinity>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>39.9681580</lat>
+    <lng>-75.5565810</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CnRtAAAAnOKS7ua2n2zc7SvpdB42OJiXSq8kHFdZttMXKI-MBSI68L8g1gxRhufEv3BIatmezSqxP72Lida6GwsbZ0uI0hNiDK2HSu3m4xHg10J_kXmtLkp7mrxGmVudKsHKoKtBe0EF3CcvtRxwL_9NMz9NExIQWUWzqGwBFpY9-XIVwH6HMxoUUgnyvTBZ4rhPIFdlxuJIhUfnoLk</reference>
+  <id>1b801371dad48c821d710b52c7e9ed7219d371d5</id>
+ </result>
+ <result>
+  <name>Empire Pizza &amp; Grill</name>
+  <vicinity>W Chester Pike # 1, West Chester</vicinity>
+  <type>bakery</type>
+  <type>food</type>
+  <type>store</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>39.9658400</lat>
+    <lng>-75.5510930</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CnRsAAAAaFXL4DuvfaDEcHZsrcLzr2bZU9lIo-Vb7hVIvPTeH57VGkBhVa4G-hiNBN8pLjEBuAqrbaUQDHuZspaVzsmv0G1VWoRpeb1-7uHbAFenLo3L8WyA-upLxmmIdbxHD5Jie9vl95qanSrpVYjYYYRPqhIQjy14ufABEsnrdNcZxeyxgBoUUMT6D2pXFPBKHrlijkmKyQ5CvrE</reference>
+  <id>92d8ee9f79ad1162719f618eb8657f8eb61d7a92</id>
+ </result>
+ <result>
+  <name>Athena Pizza</name>
+  <vicinity>Paoli Pike, West Chester</vicinity>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>39.9896900</lat>
+    <lng>-75.5492470</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CnRjAAAAzG2dPzPdhaIyIhpWhmke4oACliqOZtv0cI6xX7tEOHxNnVPU39PW_AWene9pAm-pUw2waxsgoI6C-eLaeWF0FN7i-D4UJYvN8ZWk0RBtA8WK-88_l8FlYFVdsXJER9fQ1B2IWTXOdlxCDxqQ-jdyVBIQ43wxWgbUfYKh84kp-By4IRoUMAg1VWEkrOaAjyssrv5TCG2WNc4</reference>
+  <id>8b85dbe8695bfd7d3d78e037e0eca12f24f9c297</id>
+ </result>
+ <result>
+  <name>Joey's Pizza</name>
+  <vicinity>North 5 Points Road, West Chester</vicinity>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>39.9683790</lat>
+    <lng>-75.5758980</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CnRkAAAAPX83twkXSEHxxz0JJ3YN4NSO35yC06-5XsxCscHRtT_TK2IhKXk2EXAPadvd0-_7dhiVPv9vD5stQtf3TChSwmW5aBw80R6B_x8m_hkR-fHh47_d5l0f5YG7rvKM7KXbI7zU8QAofmCRMbYjuli9nRIQz4SVoodJVlktxYDXqSMLHRoU6Z86oN_tZe7oOt0YCumkzzFe1fE</reference>
+  <id>3d2ca85eda4ab4166e20c4d2be56ba70d148653f</id>
+ </result>
+ <result>
+  <name>Piatto Pizza Inc</name>
+  <vicinity>West Chester Pike, West Chester</vicinity>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>39.9683350</lat>
+    <lng>-75.5750450</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CnRnAAAAFhqnqTy1ecKrLe2DZZwrXMhf2h6pgIinTwZzscfPz5lkqyHwL1skq8lLSqCqxN_Bu25fqWdcj9QZ3WlEztX2Ui-8Mk-6b8yV6EH6nwwntdwC0iCcNahmt8s3rG-XFRYu0Wh0oksEPrsHkPOo2ocnYRIQdR83G3XyNshVzX0RuhgCIxoUY5TbZokq5SFBuhqeS7GhnkffFrQ</reference>
+  <id>60f68e2e3c3418b5f807f2263227dd135ac48d5d</id>
+ </result>
+ <result>
+  <name>Original Pizza Box</name>
+  <vicinity>North 5 Points Road, West Chester</vicinity>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>39.9688650</lat>
+    <lng>-75.5765190</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CnRqAAAAX4UP2a419AxHrZgc2MCEbggv2pKZKKghoEBTtc5_zbDhPA5-lCZHcDcgw8-UWM1UycdM9SPtYNXFkMGcvlgrSwKjfjpgIV2VUKOHojPCa0SAtU0SDeNsFw8fDwbWjcduj4onX3gUJl3ICxsEMF9PoBIQIwZHhd8iUgr5r7IDyPUSexoUX37lLVCvZodGiDVU2KCiPxWjuTI</reference>
+  <id>2ec82ba1d1b7a70bddc18bc1386b7f9385464cee</id>
+ </result>
+ <result>
+  <name>Carmine's Pizza &amp; Eatery</name>
+  <vicinity>Paoli Pike, West Chester</vicinity>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>39.9710930</lat>
+    <lng>-75.5870550</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CnRvAAAA6HSCvLtJYQWQr1Q5abW5l-WAB3jG5N1nb7WRzE_uy2El_F0Z_Nq8p8FF8vzD0C7u3NFrO3DGRSAqPv-8eVJ9lNvFXdEIhUA7d0uRRLKzyms183bD04XgS20NFbVFvvxD0zB69hnS-EYgyBwRz4UcKBIQlNaZyTVV0v4G3WCiLkROQhoUQbu2QhSf35JUxZvNFc7c6K1lwYw</reference>
+  <id>ce39de9726f2bc37df6c1538466a59881a77e6fc</id>
+ </result>
+ <result>
+  <name>Vanos Pizza &amp; Italian Rstrnt</name>
+  <vicinity>East Boot Road, West Chester</vicinity>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>39.9983780</lat>
+    <lng>-75.5669050</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CoQBdAAAALMbhO-pyIBakngJBpKoVb7tZaLpqoJO31u1sCU9klGIbAwtlCfmJCNZHVjoYxcuAOyy8F6oShnvJQd4SYauAokCb_P9zTYCFkWG_gSJ5caQhH9_AA0WcLr60v-5TflLUz1P-qbjwdr8Jh79r0E7-HaJurhr1xvHTp4VnLVhLSRAEhAsZLVCITXcFol7dBGoj0SRGhQU9BAVUcKO3Umuj1UwnRHdpunV-A</reference>
+  <id>d84f71703c4042cc69130f33dd6b30a1841435ff</id>
+ </result>
+ <result>
+  <name>Pizza Hut</name>
+  <vicinity>East Market Street, West Chester</vicinity>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>39.9638760</lat>
+    <lng>-75.5947660</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CmRgAAAAcbsMQlAMANWMgoAvZlKvwLDKtcmvlFXMOWfVfBx-iZ_RltzdU47AoIJa0ekAS6R8gqyTMq9M7MTF-BmB5zum8p0ZnYYqsxbXZM1f-VWM9cLAVkMZufHmSeowS7YnMmaNEhBwFRCtLUEcjt0lWRnCLs3iGhTpaNj1uUpvhEdVcKCH3rGELEnQvA</reference>
+  <id>e7c26cb1994379be3228fd92fe6bf3e57ac68894</id>
+ </result>
+ <result>
+  <name>Pizza University</name>
+  <vicinity>S High St # 6, West Chester</vicinity>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>39.9420510</lat>
+    <lng>-75.5904800</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CnRnAAAAsnyW7aaBZk32GoBkbabFap5kaKz8ip5hRSBdWhlJ0GQh57nc6hktextXvNFv1N_2tZjFjY1NgKQ5J9OtZ82jF8t_tvRRv982GqFRph-6vBoXmasYYI5fFjNswxl2mZ2mleeAGMQgkOCWemCeZW4mAxIQvzKY7DKuPDw4YYpkKcYuhxoUf4UDGkeVS4NupTqBpYf1Fldjlaw</reference>
+  <id>17d643f03817133975068e7389971572a6a126ab</id>
+ </result>
+ <result>
+  <name>Papa John's Pizza</name>
+  <vicinity>West Chester</vicinity>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>39.9532810</lat>
+    <lng>-75.5971940</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CnRpAAAAafaVnM_rgGLNiU7b4fxqEHpjsY09n19b9NeC_p3O-gsxY5ooEXnKcXcP513ZI1Df-Mmwgl6MRBKq4sz0TESG3-W4-AlMFRH_kFESDaHRw2O9g42D-iy8KzuOj20IeeR2i3vffl2G4aq4GUCz8cda9hIQmFtI3sprhgygebonRF2qtxoUQKgM0THadbGBSyfm-GVviteI664</reference>
+  <id>4cb1dac0fae384e760f7b52fd45597b9c30195ea</id>
+ </result>
+ <result>
+  <name>Amore Pizza Restaurant Inc</name>
+  <vicinity>South High Street, West Chester</vicinity>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>39.9566390</lat>
+    <lng>-75.6012190</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CoQBcQAAAFLAyPV8QVlJuGGOCZoVRGt8bCx8u9DapREPWOWb5TAspVpeoKONi2mj-qRvxwJLadV9s29KlL_5IpuOaDVGaS9X4xes2iBfn_aN5sDt6yS70E2jickXavZThG6QKGiqomgym87ZTk-1OL0OBE7iMMdsGPK6PE9QuYXZobvKFEwREhAcipdXasskVHj5ocjptK_zGhS6Cb4Uuoqau4HDiXm99z4AIQBo0w</reference>
+  <id>7a26069ff5b3f1e8e9c9a254288f2d35c6cf4a8f</id>
+ </result>
+ <result>
+  <name>Domino's Pizza</name>
+  <vicinity>East Gay Street, West Chester</vicinity>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>39.9625530</lat>
+    <lng>-75.6011410</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CnRlAAAA98MEQ5Dfj4OOVWx6zT3amd322AT0mK6r-4u1RiOq9zT9vCFPfu6P5Fkz67W1MXdJHpnYQHhbo0_QgtDkRWxLGEuYNgZ1Tpv5WkYJMcySh2CIiAlIJZdDh55oOz5O3fl4DH2In53nCg-ZMBs9jIWORxIQze1Egrm3rMh2p6_lv64XdxoUKI612mmsPx6_woZZvDWutX33mL0</reference>
+  <id>9d8a31ea01eec6564f7b8083ce20928bbe9a5c86</id>
+ </result>
+ <result>
+  <name>Las Vegas Pizza</name>
+  <vicinity>East Gay Street, West Chester</vicinity>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>39.9642750</lat>
+    <lng>-75.5972560</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CnRmAAAAqrJugIC5W41bo5wqre1a6T3zoNow3cGzSv6a3LdlSiiydrqyCWIVCS84QzxZjvm-t8TxRDUO21uFPX_JHh9wvLHeGuG-lgp3WrF1DdWAkegK8fc2bHTEDTrFW5uV_FRqVh8MU1YoZ1T6Ao7ud-xORBIQkZBlk69-zXckFOsQsIkjLBoUeLhgb_doZJoOB_p8FaQ0K5VC7Mw</reference>
+  <id>8e69984cdd6e91b15a7eb521cf49dde3ab08012b</id>
+ </result>
+ <result>
+  <name>Chris's Pizza</name>
+  <vicinity>South Walnut Street, West Chester</vicinity>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>39.9538330</lat>
+    <lng>-75.5963230</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CnRlAAAACjB9tXSoj4iRdPoe4ouugwieHFKQ5OLPCGamMnxLjmdCr8LbQzdiB1ElbGUi7x7FOm9EnW8J6GfRZ2n8x7cFXhUeTrX_ZatQ4gvGzGq85-r3JiNdBj_I2ryZHQotr3AClugMaSxKlP2JyK3GpOvEexIQKQkl7Zk05tSDL4gNaUheWxoUnLeH12UdLJEwpCPSFTXQUai81dk</reference>
+  <id>f41d375122939bcec6604de9fac1de6bac1add38</id>
+ </result>
+ <result>
+  <name>Pizza Peddler</name>
+  <vicinity>Wilmington Pike, West Chester</vicinity>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>39.9212010</lat>
+    <lng>-75.5782680</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CnRkAAAAHbASqs8-gf9SuTSFuP9dz_w43s_h-cLNTDxpC1MjeT-vvMArYjhJ9d1QU7ZknAMXhQ_DYK-hFIgEvBXgYAbQVft6frNa-5TpBrOnc1-_h00RJT-ZBCTc_FJZbA_E_I5YQjxhqohCh66v-7hYjhaXkRIQ1JresdaeCe-EQRjtDLKNMRoUAMgvpJiyO_pDuxqKn883g_RImWY</reference>
+  <id>63c19c4669afd84eeb335cbc9231fb41de910bf6</id>
+ </result>
+ <result>
+  <name>Peace A Pizza</name>
+  <vicinity>West Gay Street, West Chester</vicinity>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>39.9603760</lat>
+    <lng>-75.6055590</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CnRlAAAAc44FVONxszhk16xgOoLM1v3NoIMNy7k60PZZg5l2LtqwW7zgSxED64b74RKG0H-QLvr3arLuyVoliLG1Qo5WrtTYNZ_Uey_fVlnMUp-FF-U244lUxSgymczmKRTJkmnShXHx7dhVz3N21Fzg-dRRSBIQamj9FLo7V7-NnKn_VwnnaBoUge-uCYK_XQrk6AyZbgIxiIJu_hA</reference>
+  <id>59f4680c056457cdc4556d10bd5667f26a1b3439</id>
+ </result>
+ <result>
+  <name>New Haven Style Pizza</name>
+  <vicinity>South Church Street, West Chester</vicinity>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>39.9583820</lat>
+    <lng>-75.6054150</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CnRtAAAANHqSN6L0nPGFdX98NOR4eJUsVsbix1leXvF96tmSk6rNhkGAYgS3htcAe99gnEQ-aDRjs5LPKEmRjy8X_ImEdvslpsmPpD-HR0ndJuKlrSqrEnHZpe4w3ByAmKmdlupzvgCX7l56lNhT7sOdr1XaexIQ0fGK11vcEUP8-EX7PgcuExoUR2mvB1gVhMNKxw0efNMGNr0v-Ko</reference>
+  <id>c28dfc2b02c88a8221f51a288e54dcf3672708de</id>
+ </result>
+</PlaceSearchResponse>
+
